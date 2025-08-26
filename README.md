@@ -25,7 +25,15 @@ Follow these steps to run the project locally:
    ```
 
 2. **Intall packages**
+
+   ```bash
    npm install
 
+   ```
+
 3. **run**
+
+   ```bash
    npm run dev
+
+   ```
